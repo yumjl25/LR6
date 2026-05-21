@@ -1,0 +1,12 @@
+[package]
+name = "labs"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "task3"
+path = "src/task3.rs"
+
+[[bin]]
+name = "task4"
+path = "src/task4.rs"
